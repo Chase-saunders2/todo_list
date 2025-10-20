@@ -1,6 +1,3 @@
-# To-Do List App
-# Author: Chase Saunders
-# Date: October 2025
 
 def show_menu():
     print("\n--- TO-DO LIST MENU ---")
