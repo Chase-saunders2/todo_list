@@ -1,5 +1,5 @@
 # To-Do List App
-# Author: Your Name
+# Author: Chase Saunders
 # Date: October 2025
 
 def show_menu():
@@ -76,3 +76,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
